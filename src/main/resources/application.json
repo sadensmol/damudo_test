@@ -1,0 +1,7 @@
+{
+  "mongoDb": "mongodb://localhost:27017/damudo",
+  "instanceId": "95305568-5347-444d-91c4-10d9a8ed173b",
+  "heartBeatInSec": 5,
+  "httpPort": 8888,
+  "logging.level.org.springframework.data.mongodb.core.ReactiveMongoTemplate": "DEBUG"
+}

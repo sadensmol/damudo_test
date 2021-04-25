@@ -1,0 +1,2 @@
+rootProject.name = "damudo test"
+
